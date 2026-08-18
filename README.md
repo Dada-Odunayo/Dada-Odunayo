@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Banner.png" alt="Odunayo Dada — Payments Mobile Engineer, AI Agent Systems" width="100%" />
+<img src="banner.png" alt="Odunayo Dada — Payments Mobile Engineer, AI Agent Systems" width="100%" />
 
 ### 💳 I build the apps that move money — and the agents that decide whether they should
 
