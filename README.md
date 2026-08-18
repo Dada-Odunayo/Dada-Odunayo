@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:2DD4BF&height=200&section=header&text=Odunayo%20Dada&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Payments%20Mobile%20Engineer%20%C2%B7%20AI%20Agent%20Systems&descAlignY=58&descSize=18" width="100%" />
+<img src="banner.png" alt="Odunayo Dada — Payments Mobile Engineer, AI Agent Systems" width="100%" />
 
 ### 💳 I build the apps that move money — and the agents that decide whether they should
 
@@ -74,8 +74,9 @@ Two projects built with Qwen Cloud models, both in areas where an unexplained au
 
 <div align="center">
 
-[![MerchantPilotAI](https://github-readme-stats.vercel.app/api/pin/?username=Dada-Odunayo&repo=MerchantPilotAI&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/Dada-Odunayo/MerchantPilotAI)
-[![DevTeamAI](https://github-readme-stats.vercel.app/api/pin/?username=Dada-Odunayo&repo=DevTeamAI&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/Dada-Odunayo/DevTeamAI)
+[![MerchantPilotAI](https://img.shields.io/badge/🏦_MerchantPilotAI-Compliance_agents_+_audit_trails-0F766E?style=for-the-badge&labelColor=1e2327)](https://github.com/Dada-Odunayo/MerchantPilotAI)
+
+[![DevTeamAI](https://img.shields.io/badge/🧑‍💻_DevTeamAI-Staged_agents_+_approval_gates-14B8A6?style=for-the-badge&labelColor=1e2327)](https://github.com/Dada-Odunayo/DevTeamAI)
 
 </div>
 
@@ -120,12 +121,6 @@ Two projects built with Qwen Cloud models, both in areas where an unexplained au
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dada-Odunayo&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="165" />
-
-<br/><br/>
-
 **💬 Open to conversations about payments infrastructure, agent systems, or anything where a wrong decision needs to be traceable.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:14B8A6,100:0F766E&height=120&section=footer" width="100%" />
 
 </div>
